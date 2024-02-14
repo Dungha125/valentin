@@ -34,7 +34,7 @@ body {
   position: absolute;
   left: 0;
   right: 0;
-  top: 20vh;
+  top: 5vh;
 }
 
 .one {
@@ -99,7 +99,7 @@ body {
 }
 
 .five .idea-5 {
-  font-size: 4rem;
+  font-size: 1.5rem;
 }
 
 .idea-5 span,
@@ -260,7 +260,7 @@ body {
 
 @media screen and (max-width: 500px) {
   .container {
-    width: 90%;
+    width: 70%;
   }
 
   .four .text-box {
